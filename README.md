@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dami
-- 👀 I’m a junkie for DevOps, CI/CD and open source
+- 👀 I’m a junkie for DevOps, Backend and open source
 - 🌱 I’m currently re-learning everything
 - 💞️ I’m looking to collaborate on anything interesting that relates to DevOps
 - 📫 How to reach [me
