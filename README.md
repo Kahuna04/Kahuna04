@@ -66,7 +66,7 @@ I'm a passionate **Backend Engineer** and **DevOps Enthusiast** who loves turnin
 </div>
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=kahuna04&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kahuna04&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
