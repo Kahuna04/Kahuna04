@@ -111,6 +111,4 @@ I'm always excited to work on interesting projects and meet fellow developers! W
   <i>⚡ "Code is like music - it should be clean, harmonious, and make people's lives better." ⚡</i>
 </div>
 
----
 
-*💡 **Pro tip**: Check out my pinned repositories below for some of my best work! Don't forget to ⭐ if you find something useful.*
