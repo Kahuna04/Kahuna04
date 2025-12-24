@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Backend Engineer** and **DevOps Enthusiast** who loves turning complex problems into elegant, scalable solutions. When I'm not architecting robust systems or optimizing deployment pipelines, you'll find me behind a drum kit or exploring new destinations around the world.
+**Backend Engineer**, **DevOps Enthusiast** and **AI Agents and Automation Experts** who loves turning complex problems into elegant, scalable solutions. When I'm not architecting robust systems or optimizing deployment pipelines, you'll find me behind a drum kit or exploring new destinations around the world.
 
 - 🔭 Currently building **high-performance backend systems** and **cloud-native applications**
 - 🌱 Learning **Kubernetes orchestration** and **microservices architecture**
